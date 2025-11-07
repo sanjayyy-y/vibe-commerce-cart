@@ -1,0 +1,6 @@
+.product-grid {
+  display: grid;
+  /* Creates 3 columns on desktop, 2 on tablet, 1 on mobile */
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem; /* Space between the cards */
+}
