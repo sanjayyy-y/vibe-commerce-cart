@@ -18,7 +18,7 @@ This is a full-stack mock e-commerce shopping cart application built for the Vib
 
 ## Screenshots
 
-*[Add your screenshots here! Show the main product page, the cart with items in it, and the final checkout modal.]*
+
 ![Prouduct-page](image.png)
 ![cart-page](image-1.png)
 ![checkout-page](image-2.png)
